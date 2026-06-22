@@ -10,10 +10,11 @@ public:
             if(mpp.find(arr[i])==mpp.end()) {mpp[arr[i]]=count;
             count++;}
         }
-        vector<int> ans;
+        //vector<int> ans;
         for(int i=0; i<n; i++){
-            ans.push_back(mpp[temp[i]]);
+            //ans.push_back(mpp[temp[i]]);
+            temp[i]=mpp[temp[i]];
         }
-        return ans;
+        return temp;
     }
 };
