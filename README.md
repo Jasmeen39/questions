@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
+| [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
