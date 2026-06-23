@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Jasmeen39/questions/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/Jasmeen39/questions/tree/master/1470-shuffle-the-array) |
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
