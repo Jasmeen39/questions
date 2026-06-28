@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Jasmeen39/questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
