@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jasmeen39/questions/tree/master/0015-3sum) |
+| [0876-middle-of-the-linked-list](https://github.com/Jasmeen39/questions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jasmeen39/questions/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Jasmeen39/questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
