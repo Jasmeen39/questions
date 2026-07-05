@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
 ## Math
 |  |
