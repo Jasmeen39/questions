@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
+| [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
+| [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 ## Matrix
 |  |
 | ------- |
