@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jasmeen39/questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Jasmeen39/questions/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jasmeen39/questions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
