@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jasmeen39/questions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
