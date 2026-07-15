@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Jasmeen39/questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Jasmeen39/questions/tree/master/0860-lemonade-change) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
 | [1207-unique-number-of-occurrences](https://github.com/Jasmeen39/questions/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Jasmeen39/questions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/Jasmeen39/questions/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
