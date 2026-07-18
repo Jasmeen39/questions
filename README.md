@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jasmeen39/questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jasmeen39/questions/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jasmeen39/questions/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jasmeen39/questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
