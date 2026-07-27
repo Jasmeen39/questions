@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Jasmeen39/questions/tree/master/0509-fibonacci-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jasmeen39/questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Jasmeen39/questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jasmeen39/questions/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search Tree
