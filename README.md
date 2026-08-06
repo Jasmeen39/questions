@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jasmeen39/questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Jasmeen39/questions/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Jasmeen39/questions/tree/master/0217-contains-duplicate) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
