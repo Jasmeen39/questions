@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Jasmeen39/questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0419-battleships-in-a-board](https://github.com/Jasmeen39/questions/tree/master/0419-battleships-in-a-board) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Jasmeen39/questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
