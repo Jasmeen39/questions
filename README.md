@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jasmeen39/questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jasmeen39/questions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jasmeen39/questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Jasmeen39/questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jasmeen39/questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jasmeen39/questions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jasmeen39/questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
