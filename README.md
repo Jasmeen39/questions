@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jasmeen39/questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jasmeen39/questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2103-rings-and-rods](https://github.com/Jasmeen39/questions/tree/master/2103-rings-and-rods) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jasmeen39/questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jasmeen39/questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
 | ------- |
