@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2103-rings-and-rods](https://github.com/Jasmeen39/questions/tree/master/2103-rings-and-rods) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jasmeen39/questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2103-rings-and-rods](https://github.com/Jasmeen39/questions/tree/master/2103-rings-and-rods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jasmeen39/questions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
