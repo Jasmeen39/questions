@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jasmeen39/questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jasmeen39/questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasmeen39/questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Jasmeen39/questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Trie
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Bracket Sequences
 |  |
@@ -285,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Jasmeen39/questions/tree/master/0841-keys-and-rooms) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
