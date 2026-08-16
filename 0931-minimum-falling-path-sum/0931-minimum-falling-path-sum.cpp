@@ -19,10 +19,25 @@ public:
         int m=matrix.size();
         int ans=INT_MAX;
         vector<vector<int>>dp(m,vector<int>(m,INT_MAX));
-            for(int j=0; j<m; j++){
-                ans=min(ans,solve(m,0,j,matrix,dp));
+            // for(int j=0; j<m; j++){
+            //     ans=min(ans,solve(m,0,j,matrix,dp));
+            // }
+        for(int col=0; col<m; col++){
+            dp[m-1][col]=matrix[m-1][col];
+        }
+        for(int row=m-2; row>=0; row--){
+            for(int col=0; col<m; col++){
+                int down=dp[row+1][col];
+                int left=INT_MAX;
+                if(col>0) left=dp[row+1][col-1];
+                int right=INT_MAX;
+                if(col<m-1) right=dp[row+1][col+1];
+                dp[row][col]=matrix[row][col]+min({left,down,right});
             }
-        //}
+        }
+        for(int col=0; col<m; col++){
+            ans=min(ans,dp[0][col]);
+        }
         return ans;
     }
 };
