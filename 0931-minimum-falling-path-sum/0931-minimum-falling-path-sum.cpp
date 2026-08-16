@@ -16,27 +16,46 @@ public:
         return dp[row][col]=matrix[row][col]+min({left,down,right});
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
+        // int m=matrix.size();
+        // int ans=INT_MAX;
+        // vector<vector<int>>dp(m,vector<int>(m,INT_MAX));
+        //     // for(int j=0; j<m; j++){
+        //     //     ans=min(ans,solve(m,0,j,matrix,dp));
+        //     // }
+        // for(int col=0; col<m; col++){
+        //     dp[m-1][col]=matrix[m-1][col];
+        // }
+        // for(int row=m-2; row>=0; row--){
+        //     for(int col=0; col<m; col++){
+        //         int down=dp[row+1][col];
+        //         int left=INT_MAX;
+        //         if(col>0) left=dp[row+1][col-1];
+        //         int right=INT_MAX;
+        //         if(col<m-1) right=dp[row+1][col+1];
+        //         dp[row][col]=matrix[row][col]+min({left,down,right});
+        //     }
+        // }
+        // for(int col=0; col<m; col++){
+        //     ans=min(ans,dp[0][col]);
+        // }
+        // return ans;
         int m=matrix.size();
-        int ans=INT_MAX;
-        vector<vector<int>>dp(m,vector<int>(m,INT_MAX));
-            // for(int j=0; j<m; j++){
-            //     ans=min(ans,solve(m,0,j,matrix,dp));
-            // }
-        for(int col=0; col<m; col++){
-            dp[m-1][col]=matrix[m-1][col];
-        }
+        vector<int> below=matrix[m-1];
         for(int row=m-2; row>=0; row--){
-            for(int col=0; col<m; col++){
-                int down=dp[row+1][col];
+            vector<int> curr(m);
+             for(int col=0; col<m; col++){
+                int down=below[col];
                 int left=INT_MAX;
-                if(col>0) left=dp[row+1][col-1];
+                if(col>0) left=below[col-1];
                 int right=INT_MAX;
-                if(col<m-1) right=dp[row+1][col+1];
-                dp[row][col]=matrix[row][col]+min({left,down,right});
-            }
+                if(col<m-1) right=below[col+1];
+                curr[col]=matrix[row][col]+min({left,down,right});
+             }
+             below=curr;
         }
+        int ans=INT_MAX;
         for(int col=0; col<m; col++){
-            ans=min(ans,dp[0][col]);
+            ans=min(ans,below[col]);
         }
         return ans;
     }
