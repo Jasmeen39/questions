@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Jasmeen39/questions/tree/master/1470-shuffle-the-array) |
+| [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jasmeen39/questions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -154,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
