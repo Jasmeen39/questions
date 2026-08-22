@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Jasmeen39/questions/tree/master/0860-lemonade-change) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
 | [1207-unique-number-of-occurrences](https://github.com/Jasmeen39/questions/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jasmeen39/questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Jasmeen39/questions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Jasmeen39/questions/tree/master/0191-number-of-1-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -307,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Jasmeen39/questions/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
