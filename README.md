@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jasmeen39/questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/Jasmeen39/questions/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jasmeen39/questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/Jasmeen39/questions/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jasmeen39/questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jasmeen39/questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Jasmeen39/questions/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jasmeen39/questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jasmeen39/questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jasmeen39/questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jasmeen39/questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Jasmeen39/questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jasmeen39/questions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jasmeen39/questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
