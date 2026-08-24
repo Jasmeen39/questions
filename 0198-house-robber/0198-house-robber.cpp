@@ -10,8 +10,7 @@ public:
         return max(pick, notpick);
     }
     int mem(vector<int>& nums, int idx, vector<int>& dp) {
-        // if(idx==0) return nums[idx];
-        if(idx == 0) dp[0] = nums[0];
+        if(idx == 0) return dp[0]=nums[0];
         if (idx < 0)
             return 0;
         if (dp[idx] != -1)
