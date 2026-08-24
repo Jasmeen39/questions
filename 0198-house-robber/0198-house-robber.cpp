@@ -19,12 +19,29 @@ public:
         int notpick = mem(nums, idx - 1, dp);
         return dp[idx] = max(pick, notpick);
     }
+    void tab(vector<int>& nums, int idx, vector<int>& dp) {
+        dp[0]=nums[0];
+        int pick;
+        int notpick;
+        for(int i=1; i<=idx; i++){
+            if(i==1){
+                pick=nums[1];
+                notpick=nums[0];
+            }
+            else{
+            pick= nums[i]+dp[i-2];
+            notpick=0+dp[i-1];
+            }
+            dp[i]=max(pick,notpick);
+        }
+    }
     int rob(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n, -1);
         // int ans=rec(nums,n-1);
         // return ans;
-        mem(nums, n - 1, dp);
+        // mem(nums, n - 1, dp);
+        tab(nums,n-1,dp);
         return dp[n - 1];
     }
 };
