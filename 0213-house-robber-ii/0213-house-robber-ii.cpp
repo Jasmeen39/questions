@@ -17,6 +17,38 @@ public:
         int notpick=0+mem(nums,start,idx-1,dp);
         return dp[idx]=max(pick,notpick);
     }
+    // void tab(vector<int>& nums,int idx, int end,  vector<int> &dp){
+    //     if(idx==0 || idx==1) dp[idx]=nums[idx];
+    //     for(int i=2; i<=end; i++){
+    //         int pick=INT_MIN;
+    //         int notpick=INT_MIN;
+    //         if(i-2>=0){
+    //             if(idx>0 && i==2) continue;
+    //             else pick=nums[i]+dp[i-2];
+    //             }
+    //         if(i-1>=0){
+    //             if(idx>0 && i==2) continue;
+    //             else notpick=0+dp[i-1];}
+    //         dp[i]=max(pick,notpick);
+    //     }
+    // }
+    void tab(vector<int>& nums, int start, int end, vector<int>& dp) {
+
+    dp[start] = nums[start];
+
+    if(start + 1 <= end) {
+        dp[start + 1] = max(nums[start], nums[start + 1]);
+    }
+
+    for(int i = start + 2; i <= end; i++) {
+
+        int pick = nums[i] + dp[i - 2];
+
+        int notpick = dp[i - 1];
+
+        dp[i] = max(pick, notpick);
+    }
+}
     int rob(vector<int>& nums) {
         int n= nums.size();
         if(n==1){
@@ -24,8 +56,11 @@ public:
         }
         vector<int> dp1(n, -1);
         vector<int> dp2(n, -1);
-        int notlast=mem(nums,0,n-2,dp1);
-        int notfirst=mem(nums,1,n-1,dp2);
-        return max(notlast,notfirst);
+        // int notlast=mem(nums,0,n-2,dp1);
+        // int notfirst=mem(nums,1,n-1,dp2);
+        // return max(notlast,notfirst);
+        tab(nums,0,n-2,dp1);
+        tab(nums,1,n-1,dp2);
+        return max(dp1[n-2],dp2[n-1]);
     }
 };
