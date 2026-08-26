@@ -55,25 +55,36 @@ public:
         if (n == 1) {
             return nums[0];
         }
-        vector<int> dp1(n, -1);
-        vector<int> dp2(n, -1);
+        //IMPORTANT ADDITION
+        if(n == 2)
+    return max(nums[0], nums[1]);
+        //vector<int> dp1(n, -1);
+        //vector<int> dp2(n, -1);
         // int notlast=mem(nums,0,n-2,dp1);
         // int notfirst=mem(nums,1,n-1,dp2);
         // return max(notlast,notfirst);
         //tab(nums, 0, n - 2, dp1);
         //tab(nums, 1, n - 1, dp2);
-        int start1=0;
-        dp1[start1]=nums[start1];
-        if(start1+1<=n-2) dp1[start1+1]=max(nums[start1],nums[start1+1]);
-        for(int i=start1+2; i<=n-2; i++){
-            dp1[i]=max(nums[i]+dp1[i-2],dp1[i-1]);
+           //Lol wanted to do space optimization and did tab
+        //int start1=0;
+        int prev2=nums[0];
+        int prev1=INT_MIN;
+        if(1<=n-2) prev1=max(prev2,nums[1]);
+        for(int i=2; i<=n-2; i++){
+            int curr=max(nums[i]+prev2,prev1);
+            prev2=prev1;
+            prev1=curr;
         }
-        int start2=1;
-        dp2[start2]=nums[start2];
-        if(start2+1<=n-1) dp2[start2+1]=max(nums[start2],nums[start2+1]);
-        for(int i=start2+2; i<=n-1; i++){
-            dp2[i]=max(nums[i]+dp2[i-2],dp2[i-1]);
+        //int start2=1;
+        int prevtwo=nums[1];
+        int prevone=INT_MIN;
+        if(2<=n-1) prevone=max(prevtwo,nums[2]);
+        for(int i=3; i<=n-1; i++){
+            int curr=max(nums[i]+prevtwo,prevone);
+            prevtwo=prevone;
+            prevone=curr;
         }
-        return max(dp1[n - 2], dp2[n - 1]);
+        //return max(dp1[n - 2], dp2[n - 1]);
+        return max(prev1,prevone);
     }
 };
