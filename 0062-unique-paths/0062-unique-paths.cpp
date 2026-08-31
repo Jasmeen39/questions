@@ -30,12 +30,21 @@ public:
             }
         }
     }
-
+    void so(int  i, int j,vector<int> & dp){
+        for(int row=1; row<=i; row++){
+            for(int col=1; col<=j; col++){
+                dp[col]=dp[col]+dp[col-1];
+            }
+        }
+    }
     int uniquePaths(int m, int n) {
         //rec(m-1,n-1,m,n);
         vector<vector<int>> dp(m,vector<int>(n,-1));
         //mem(m-1,n-1,dp);
-        tab(m-1,n-1,dp);
-        return dp[m-1][n-1]; 
+        //tab(m-1,n-1,dp);
+        //return dp[m-1][n-1]; 
+        vector<int> newdp(n,1);
+        so(m-1,n-1,newdp);
+        return newdp[n-1];
     }
 };
