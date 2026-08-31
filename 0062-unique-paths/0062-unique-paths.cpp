@@ -13,10 +13,29 @@ public:
         return dp[i][j]=left+up;
     }
 
+    void tab(int  i, int j,vector<vector<int>> & dp){
+        dp[0][0]=1;
+        //if(1<=i)dp[1][0]=1;
+        //if(1<=j)dp[0][1]=1;
+
+        for(int row=0; row<=i; row++){
+            for(int col=0; col<=j; col++){
+                if(row == 0 && col == 0)
+                continue;
+                int left=0;
+                if(col>0)left=dp[row][col-1];
+                int up=0;
+                if(row>0) up=dp[row-1][col];
+                dp[row][col]=left+up;
+            }
+        }
+    }
+
     int uniquePaths(int m, int n) {
         //rec(m-1,n-1,m,n);
         vector<vector<int>> dp(m,vector<int>(n,-1));
-        mem(m-1,n-1,dp);
+        //mem(m-1,n-1,dp);
+        tab(m-1,n-1,dp);
         return dp[m-1][n-1]; 
     }
 };
