@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jasmeen39/questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jasmeen39/questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jasmeen39/questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Jasmeen39/questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jasmeen39/questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Jasmeen39/questions/tree/master/0419-battleships-in-a-board) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jasmeen39/questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Jasmeen39/questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Jasmeen39/questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Jasmeen39/questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
