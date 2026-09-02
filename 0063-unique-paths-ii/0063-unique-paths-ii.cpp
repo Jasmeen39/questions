@@ -21,11 +21,31 @@ public:
         if(i>0) up=mem(obstacleGrid,i-1,j,dp);
         return dp[i][j]=left+up;
     }
+    void tab(vector<vector<int>>& obstacleGrid, int i, int j,vector<vector<int>> &dp){
+        if(obstacleGrid[0][0] == 1)
+        dp[0][0] = 0;
+        else
+        dp[0][0] = 1;
+        for(int row=0; row<=i; row++){
+            for(int col=0; col<=j; col++){
+                if(row==0 && col==0) continue;
+                if(obstacleGrid[row][col]==1) dp[row][col]=0;
+                else{
+                int left=0;
+                int up=0;
+                if(col>=1) left=dp[row][col-1];
+                if(row>=1) up=dp[row-1][col];
+                dp[row][col]=left+up;
+                }
+            }
+        }
+    }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m=obstacleGrid.size();
         int n=obstacleGrid[0].size();
         vector<vector<int>> dp(m, vector<int>(n,-1));
-        mem(obstacleGrid,m-1,n-1,dp);
+        //mem(obstacleGrid,m-1,n-1,dp);
+        tab(obstacleGrid,m-1,n-1,dp);
         return dp[m-1][n-1];
     }
 };
