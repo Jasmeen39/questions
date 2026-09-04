@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Jasmeen39/questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Jasmeen39/questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jasmeen39/questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Jasmeen39/questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jasmeen39/questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Jasmeen39/questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jasmeen39/questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/Jasmeen39/questions/tree/master/0973-k-closest-points-to-origin) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jasmeen39/questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jasmeen39/questions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Jasmeen39/questions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Jasmeen39/questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
