@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jasmeen39/questions/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Jasmeen39/questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Jasmeen39/questions/tree/master/0860-lemonade-change) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jasmeen39/questions/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Jasmeen39/questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Jasmeen39/questions/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jasmeen39/questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Jasmeen39/questions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Counting Sort
 |  |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Jasmeen39/questions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Jasmeen39/questions/tree/master/0141-linked-list-cycle) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Jasmeen39/questions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
