@@ -27,11 +27,26 @@ public:
         if(i>0)up=mem(i-1,j,grid,dp);
         return dp[i][j]=grid[i][j]+min(left,up);
     }
+    void tab (int i, int j, vector<vector<int>>& grid, vector<vector<int>>&dp){
+        dp[0][0]=grid[0][0];
+        for(int row=0; row<=i; row++){
+            for(int col=0; col<=j; col++){
+                if(row==0 && col==0) continue;
+                int left=INT_MAX;
+                int up=INT_MAX;
+                if(col>0) left=dp[row][col-1];
+                if(row>0) up=dp[row-1][col];
+                dp[row][col]=grid[row][col]+min(left,up);
+            }
+        }
+    }
     int minPathSum(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
         vector<vector<int>>dp(m,vector<int>(n,-1));
-        return mem(m-1,n-1,grid,dp);
+        //return mem(m-1,n-1,grid,dp);
+        tab(m-1,n-1,grid,dp);
+        return dp[m-1][n-1];
         //return minsum;
     }
 };
