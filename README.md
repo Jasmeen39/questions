@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jasmeen39/questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Jasmeen39/questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jasmeen39/questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Jasmeen39/questions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Jasmeen39/questions/tree/master/0198-house-robber) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jasmeen39/questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jasmeen39/questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Jasmeen39/questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jasmeen39/questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jasmeen39/questions/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Jasmeen39/questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Jasmeen39/questions/tree/master/0463-island-perimeter) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jasmeen39/questions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Jasmeen39/questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jasmeen39/questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jasmeen39/questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jasmeen39/questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jasmeen39/questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jasmeen39/questions/tree/master/0213-house-robber-ii) |
