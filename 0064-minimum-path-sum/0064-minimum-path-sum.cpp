@@ -1,0 +1,37 @@
+class Solution {
+public:
+    //int minsum=INT_MAX;
+    int sum;
+    int rec(int i, int j, vector<vector<int>>& grid){
+        //two case left and up
+        //base case is 0
+        //if(i<0 || j<0) return 0;
+        if(i==0 && j==0) return grid[i][j];
+        int left=INT_MAX;
+        if(j>0) left=rec(i,j-1,grid);
+        int up=INT_MAX;
+        if(i>0)up=rec(i-1,j,grid);
+        //sum+=up;
+        // int leftsum=grid[i][j]+left;
+        // int upsum=grid[i][j]+up;
+        return grid[i][j]+min(left,up);
+    }
+    int mem(int i, int j, vector<vector<int>>& grid,vector<vector<int>>&dp){
+        //two case left and up
+        //base case is 0
+        if(i==0 && j==0) return dp[i][j]=grid[i][j];
+        if(dp[i][j]!=-1) return dp[i][j];
+        int left=INT_MAX;
+        if(j>0) left=mem(i,j-1,grid,dp);
+        int up=INT_MAX;
+        if(i>0)up=mem(i-1,j,grid,dp);
+        return dp[i][j]=grid[i][j]+min(left,up);
+    }
+    int minPathSum(vector<vector<int>>& grid) {
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return mem(m-1,n-1,grid,dp);
+        //return minsum;
+    }
+};
