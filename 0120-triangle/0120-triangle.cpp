@@ -44,21 +44,38 @@ public:
             }
         }
     }
+    void so(vector<vector<int>>& triangle, int i, vector<int>&prev){
+        prev[0]=triangle[0][0];
+        for(int row=1; row<=i; row++){
+            vector<int> curr(row+1);
+            curr[0]=triangle[row][0]+prev[0];
+            for(int col=1; col<row; col++){
+                curr[col]=triangle[row][col]+min(prev[col], prev[col-1]);
+            }
+            curr[row]=triangle[row][row]+prev[row-1];
+            prev=curr;
+        }
+    }
     
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size();
         int n=triangle[m-1].size();
         int ans=INT_MAX;
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        // for(int j=0; j<=n-1; j++){
-        // ans=min(ans,mem(triangle,m-1,j,n-1,dp));
-        // }
-        // return ans;
-       //return solve(triangle,m-1,n-1);
-       tabulation(triangle,m-1,n-1,dp);
-       for(int col=0; col<=n-1; col++){
-        ans=min(ans,dp[m-1][col]);
-       }
+    //     vector<vector<int>>dp(m,vector<int>(n,-1));
+    //     // for(int j=0; j<=n-1; j++){
+    //     // ans=min(ans,mem(triangle,m-1,j,n-1,dp));
+    //     // }
+    //     // return ans;
+    //    //return solve(triangle,m-1,n-1);
+    //    tabulation(triangle,m-1,n-1,dp);
+    //    for(int col=0; col<=n-1; col++){
+    //     ans=min(ans,dp[m-1][col]);
+    //    }
+    vector<int> prev(n);
+    so(triangle,m-1,prev);
+    for(int col=0; col<n; col++){
+        ans=min(ans,prev[col]);
+    }
        return ans;
     }
 };
