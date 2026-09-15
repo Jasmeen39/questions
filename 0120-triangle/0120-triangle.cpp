@@ -61,16 +61,6 @@ public:
         int m=triangle.size();
         int n=triangle[m-1].size();
         int ans=INT_MAX;
-    //     vector<vector<int>>dp(m,vector<int>(n,-1));
-    //     // for(int j=0; j<=n-1; j++){
-    //     // ans=min(ans,mem(triangle,m-1,j,n-1,dp));
-    //     // }
-    //     // return ans;
-    //    //return solve(triangle,m-1,n-1);
-    //    tabulation(triangle,m-1,n-1,dp);
-    //    for(int col=0; col<=n-1; col++){
-    //     ans=min(ans,dp[m-1][col]);
-    //    }
     vector<int> prev(n);
     so(triangle,m-1,prev);
     for(int col=0; col<n; col++){
