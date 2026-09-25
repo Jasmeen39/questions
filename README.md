@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Jasmeen39/questions/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/Jasmeen39/questions/tree/master/1539-kth-missing-positive-number) |
 | [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 | [1854-maximum-population-year](https://github.com/Jasmeen39/questions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Jasmeen39/questions/tree/master/1929-concatenation-of-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Jasmeen39/questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Jasmeen39/questions/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/Jasmeen39/questions/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
