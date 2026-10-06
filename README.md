@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Jasmeen39/questions/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/Jasmeen39/questions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jasmeen39/questions/tree/master/0257-binary-tree-paths) |
 | [0763-partition-labels](https://github.com/Jasmeen39/questions/tree/master/0763-partition-labels) |
 | [0916-word-subsets](https://github.com/Jasmeen39/questions/tree/master/0916-word-subsets) |
+| [1143-longest-common-subsequence](https://github.com/Jasmeen39/questions/tree/master/1143-longest-common-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2103-rings-and-rods](https://github.com/Jasmeen39/questions/tree/master/2103-rings-and-rods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jasmeen39/questions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jasmeen39/questions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Jasmeen39/questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
