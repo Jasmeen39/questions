@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Jasmeen39/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jasmeen39/questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1463-cherry-pickup-ii](https://github.com/Jasmeen39/questions/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Jasmeen39/questions/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Jasmeen39/questions/tree/master/1539-kth-missing-positive-number) |
 | [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Jasmeen39/questions/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/Jasmeen39/questions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/Jasmeen39/questions/tree/master/1463-cherry-pickup-ii) |
 | [1706-where-will-the-ball-fall](https://github.com/Jasmeen39/questions/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Jasmeen39/questions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/Jasmeen39/questions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jasmeen39/questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1463-cherry-pickup-ii](https://github.com/Jasmeen39/questions/tree/master/1463-cherry-pickup-ii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Jasmeen39/questions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
